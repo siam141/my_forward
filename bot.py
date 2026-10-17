@@ -28,7 +28,7 @@ from pyrogram.errors import (SessionPasswordNeeded, PhoneCodeInvalid,
 # ============================================================
 #  CONFIGURATION
 # ============================================================
-TOKEN       = "8948573487:AAHA5F84xxLXx0C4RB_AWmMCOYhisBGZve0"
+TOKEN       = "8671657627:AAHWcpRy-3oXOAHaGGktqkk7oU7Fl6joEws"
 ADMIN_ID    = 8530165612
 TIMEZONE    = ZoneInfo("Asia/Dhaka")
 DB_PATH     = "studio.db"

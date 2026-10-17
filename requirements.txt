@@ -1,3 +1,24 @@
-telethon>=1.34.0
-python-dotenv>=1.0.0
-cryptg>=0.4.0
+# ─── AlphaPost Studio Pro v16 ───
+# Bot framework
+aiogram>=3.13,<4.0
+
+# HTTP client (used everywhere: AI calls, image fetch, RSS, ImgBB)
+aiohttp>=3.9,<4.0
+
+# Async SQLite
+aiosqlite>=0.19,<1.0
+
+# Scheduler (APScheduler AsyncIOScheduler + CronTrigger)
+APScheduler>=3.10,<4.0
+
+# Telegram userbot (MTProto client)
+pyrogram>=2.0.106,<3.0
+
+# Pyrogram crypto accelerator (highly recommended — 10-20× faster downloads)
+tgcrypto>=1.2.5
+
+# Image composer (12 templates, Bengali font rendering)
+Pillow>=10.4,<12.0
+
+# Timezone data (needed if system lacks /usr/share/zoneinfo)
+tzdata>=2024.1
